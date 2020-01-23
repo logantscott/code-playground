@@ -1,0 +1,15 @@
+#container div {
+    border: 1px solid black;
+    max-width: 600px;
+}
+
+ul {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+ul li {
+    font-weight: normal;
+    font-size: 16px;
+    margin-left: 40px;
+}
